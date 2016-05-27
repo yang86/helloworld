@@ -12,7 +12,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World! The first app for github!" />
+        android:text= "@string/helloworld"/>
 
     <RadioButton
         android:layout_width="wrap_content"
